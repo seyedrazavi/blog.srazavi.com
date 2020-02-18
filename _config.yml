@@ -27,10 +27,44 @@ url: "https://blog.srazavi.com" # the base hostname & protocol for your site, e.
 twitter_username: monkeyx
 github_username:  seyedrazavi
 
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
 # Build settings
-theme: minima
+remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
 plugins:
   - jekyll-feed
+
+excerpt_delimiter: <!--more-->
+
+plainwhite:
+  title: Essays and Stories
+  tagline: by Seyed P. Razavi
+  date_format: "%b %-d, %Y"
+
+  sitemap: true
+
+  navigation:
+    - title: Home
+      url: "/"
+    - title: About
+      url: "/about"
+
+
+  social_links:
+    twitter: monkeyx
+    github:  seyedrazavi
+    linkedIn: in/sprazavi
 
 # Exclude from processing.
 # The following items will not be processed, by default.
