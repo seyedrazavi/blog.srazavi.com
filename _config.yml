@@ -55,6 +55,8 @@ plainwhite:
 
   sitemap: true
 
+  analytics_id: UA-105585443-1
+
   navigation:
     - title: Home
       url: "/"
@@ -64,9 +66,7 @@ plainwhite:
 
   social_links:
     twitter: monkeyx
-    github:  seyedrazavi
     linkedIn: in/sprazavi
-    instagram: monkeyxuk
 
 # Exclude from processing.
 # The following items will not be processed, by default.
