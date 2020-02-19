@@ -21,7 +21,7 @@
 title: Essays and Stories
 email: monkeyx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Essays and stories by Seyed P. Razavi
+  Essays and Stories by Seyed P. Razavi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.srazavi.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: monkeyx
@@ -49,8 +49,8 @@ plugins:
 excerpt_delimiter: <!--more-->
 
 plainwhite:
-  title: Essays and Stories
-  tagline: by Seyed P. Razavi
+  title: Essays and Stories by Seyed P. Razavi
+  tagline: Essays and Stories <br/>by Seyed P. Razavi
   date_format: "%b %-d, %Y"
 
   sitemap: true

@@ -32,7 +32,7 @@ comments: []
 
 > "The final aspect of this worrying scenario comes to light once one realizes that [such technologies] are at least on the way to being correctly treated as genuine parts of the user&rsquo;s own cognitive architecture... that unconsciously guide my behaviour... be part of what I unconsciously believe to be the case, and thus presumably will have the same status as my more familiar, internally realized unconscious beliefs when it comes to any moral judgments that are made about my resulting thoughts and actions."
 
-> -- **Michael Wheeler, 2018**
+> -- **Michael Wheeler**
 
 When some technology is used by a skilled person without difficulty, the person is no longer consciously aware of the technology. It disappears from her awareness in the same way that when in the flow of writing, she doesn't notice the pen in her hand. This kind of lack of active awareness of the technology in use is labelled <strong>transparency</strong>.
 
