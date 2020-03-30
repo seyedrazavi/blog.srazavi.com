@@ -18,16 +18,6 @@ layout: default
     {{ content }}
   </div>
 
-<footer class="pt3">
-    <div class="mb4">
-        {% include comment-form.html %}
-        {% assign all_comments = site.data.comments | where: "slug", page.slug %}
-        {% if all_comments.size > 0 %}
-        {% include comments.html %}
-        {% endif %}
-    </div>
-</footer>
-
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>
   <script>
