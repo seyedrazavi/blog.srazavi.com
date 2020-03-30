@@ -7,6 +7,7 @@ author:
 author_email: me@srazavi.com
 categories: []
 tags: []
+comments: true
 ---
 In a previous post, I introduced phenomenology, a philosophical discipline that attempts to makes sense of the first-person experience of conscious beings like us. In this post, I will present some worries about the method and consider the strong objection against phenomology raised by the philosopher Daniel Dennett.
 
