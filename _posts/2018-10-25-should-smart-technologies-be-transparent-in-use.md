@@ -17,13 +17,8 @@ date_gmt: '2018-10-25 14:00:46 +0100'
 categories:
 - Essays
 tags:
-- Artificial Intelligence
-- Deep Learning Networks
-- Extended Cognition
-- Michael Wheeler
+- AI
 - Phenomenology
-- Smart Technologies
-- Transparency
 comments: []
 ---
 > "[D]eep learning systems are &lsquo;already pushing their way into real-world applications. Some help drive services inside Google and other Internet giants, helping to identify faces in photos, recognize commands spoken into smartphones, and so much more&rsquo;. If deep learning networks systematically classify the world&rsquo;s patterns in ways that are at variance with our ordinary human classifications, and if those networks are lodged in the workings of the technology that organizes and shapes our cognitive lives, then those lives will be organized and shaped by those variant classifications.
