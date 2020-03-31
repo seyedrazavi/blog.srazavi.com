@@ -48,6 +48,9 @@ plugins:
 
 excerpt_delimiter: <!--more-->
 
+feed:
+  path: atom.xml
+
 plainwhite:
   title: Essays and Stories by Seyed P. Razavi
   tagline: Essays and Stories <br/>by Seyed P. Razavi

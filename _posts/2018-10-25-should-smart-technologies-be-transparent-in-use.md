@@ -8,6 +8,7 @@ author:
   login: monkeyx
   email: me@srazavi.com
   url: ''
+  twitter: monkeyx
 author_login: monkeyx
 author_email: me@srazavi.com
 wordpress_id: 265
