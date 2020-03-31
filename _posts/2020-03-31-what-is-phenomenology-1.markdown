@@ -14,6 +14,7 @@ comments: true
 ---
 In this post, I will introduce you to phenomenology. This is a philosophical discipline that tries to makes sense of our first-person conscious experience. This will be a summary of the approach and why it may be a fruitful one. In a future post, I'll consider some worries about the approach and present the arguments of one of its detractors, Daniel Dennett.
 <!--more-->
+
 Phenomenology attempts to provide a careful analysis of descriptions of lived experience. It's noteworthy that phenomenology doesn’t consider itself a form of introspective psychology.  For [Edmund Husserl](https://www.iep.utm.edu/husserl/) and later phenomenologists, the distinction between ‘inner’ and ‘outer’ experience was a metaphysical fallacy. Their primary concern is the phenomena of experience and the conditions of their possibility. Or put another way: how things appear to us and what makes us the kind of beings which can have experiences at all. 
 
 Husserl rejected the view of [Kant](https://www.iep.utm.edu/kantview/#SH2c) that we only experience mere appearances. That the reality of the objects of our experience are completely hidden to us. The rallying cry of the phenomenologist was "back to the things themselves". This is a call to return to examining how things appear to us without the learned prejudice towards common sense realism. Appearances may not always match, as a matter of how things appear under different circumstances. Yet that doesn’t make phenomenology something distinct from science, concerned only with how things seem. Instead, Husserl regarded phenomenology as providing a new epistemic foundation for science.
@@ -36,7 +37,7 @@ Finally, we corroborate our experience with the experience of others. This **int
 
 Later neuro-phenomenologists have attempted to bring this methodology into a naturalised framework. Foremost by formalising phenomenological descriptions using a [notation proposed by Marbach](file:///Users/seyedrazavi/Downloads/08_Marbach.pdf). After translation, the formal notation is mathematically compared with formalised third-person reports from empirical psychology. So, first- and third-person accounts can be mapped to provide a combined naturalised account of experience. Whether this is successful awaits more evidence. Neuro-phenomenologists such as Dan Zahavi are at the forefront of this application.
 
-Having introduced phenomology, in the next post I will consider some worries. Plus the strong objection raised against it by the philosopher Daniel Dennett. 
+Having introduced phenomology, in the next post I will consider some worrie about the method. Plus the strong objection raised against it by the philosopher Daniel Dennett. 
 
 ## Further Reading
 
