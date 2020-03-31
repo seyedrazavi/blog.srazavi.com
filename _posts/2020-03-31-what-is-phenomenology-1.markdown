@@ -1,7 +1,6 @@
 ---
 title: What is phenomenology? [1]
 layout: post
-title: post
 layout: 
 author:
   display_name: S. P. Razavi
