@@ -5,8 +5,10 @@ author:
   display_name: S. P. Razavi
   email: me@srazavi.com
 author_email: me@srazavi.com
-categories: []
-tags: []
+categories:
+- Essays
+tags:
+- Phenomenology
 comments: true
 ---
 In a previous post, I introduced phenomenology, a philosophical discipline that attempts to makes sense of the first-person experience of conscious beings like us. In this post, I will present some worries about the method and consider the strong objection against phenomology raised by the philosopher Daniel Dennett.
@@ -17,13 +19,13 @@ A further worry may be raised when considering whether the epoché sets an impos
 
 Yet another objection may be made in regard to the process of formalisation and translation. In general, formalisation is accepted practice within science and thus it does not seem to be reasonable to deny it a role when dealing with phenomenal experience. The question of corroboration of translated forms of notation between first- and third-person is more of an empirical question. If it turns out that phenomenological and psychological formalisations are incommensurate, there may be good reason to suspect naturalising efforts within phenomenology. Depending on whether you believe all pursuits of knowledge must be naturalisable or not, this may be where you get off the bus if you've gotten this far at all.
 
-Now let me turn to the strong opposition of Daniel Dennett towards the whole phenomenological enterprise. Alongside the set of principled objections against the phenomenological method expressed in _Consciousness Explained_, Dennett gives his own alternative method of "heterophenomenology". Dennett’s method takes the first-person reporting as raw data to be fitted against behaviourist and instrumental data, from functional magnetic resonance imaging (fMRI) and the like. In that sense, it fits neatly within the spectrum of methods already employed by experimental psychology and cognitive neuroscience.  
+Now let me turn to the strong opposition of Daniel Dennett towards the whole phenomenological enterprise. Alongside the set of principled objections against the phenomenological method expressed in _Consciousness Explained_, Dennett gives his own alternative method of 'heterophenomenology'. Dennett’s method takes the first-person reporting as raw data to be fitted against behaviourist and instrumental data, from functional magnetic resonance imaging (fMRI) and the like. In that sense, it fits neatly within the spectrum of methods already employed by experimental psychology and cognitive neuroscience.  
 
 It is not my aim here to argue against Dennett’s heterophenomenology but rather to examine his objections against the kind of phenomenology grounded in Husserl’s method. Dennett’s objection can be categorised into two problems for the phenomenologist:
 
-**The False Positive Problem**: “Some beliefs that subjects have about their own conscious states are provably false, and hence what needs explanation in these cases is the etiology of the false belief”. 
+**The False Positive Problem**: “Some beliefs that subjects have about their own conscious states are provably false, and hence what needs explanation in these cases is the etiology of the false belief” (Dennett, 2001). 
 
-**The False Negative Problem**: “Some psychological things that happen in people (to put it crudely but neutrally) are unsuspected by those people.  People not only volunteer no information on these topics; when provoked to search, they find no information on these topics. But a forced choice guess, for instance, reveals that nevertheless, there is something psychological going on”.
+**The False Negative Problem**: “Some psychological things that happen in people (to put it crudely but neutrally) are unsuspected by those people.  People not only volunteer no information on these topics; when provoked to search, they find no information on these topics. But a forced choice guess, for instance, reveals that nevertheless, there is something psychological going on” (ibid).
 
 One may consider that the phenomenologist’s response to the first problem would be to deny claiming infallibility for their method. In fact, the method is designed to guard against error through intersubjective verification. What the phenomenologist claims is direct not infallible knowledge. In the former sense, we have access to the content of our minds without mediation. There is no gap between thought and mind.
 
@@ -35,7 +37,7 @@ Having presented Husserlian phenomenology as a method by which we can examine th
 
 ## Further Reading
 
-Dennett, D. 2001. ‘The Fantasy of First Person Science’. 2001. https://doi.org/10.1007/978-3-319-72478-2_26.
+Dennett, D. 2001. ‘The Fantasy of First Person Science’. 2001. [https://doi.org/10.1007/978-3-319-72478-2_26](https://doi.org/10.1007/978-3-319-72478-2_26).
 
 ----------- 1993. Consciousness Explained. Penguin UK.  
 
