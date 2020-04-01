@@ -11,6 +11,7 @@ categories:
 tags:
 - Phenomenology
 comments: true
+lang: en_GB
 ---
 In this post, I will introduce you to phenomenology. This is a philosophical discipline that tries to makes sense of our first-person conscious experience. This will be a summary of the approach and why it may be a fruitful one. In a future post, I'll consider some worries about the approach and present the arguments of one of its detractors, Daniel Dennett.
 <!--more-->
