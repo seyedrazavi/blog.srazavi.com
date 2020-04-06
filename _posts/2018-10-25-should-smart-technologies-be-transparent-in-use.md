@@ -1,16 +1,7 @@
 ---
 layout: post
-status: publish
 published: true
 title: Should smart technologies be transparent when used?
-author:
-  display_name: S. P. Razavi
-  login: monkeyx
-  email: me@srazavi.com
-  url: ''
-  twitter: monkeyx
-author_login: monkeyx
-author_email: me@srazavi.com
 wordpress_id: 265
 wordpress_url: http://hyperhuman.blog/?p=178
 date: '2018-10-25 15:00:46 +0100'

@@ -1,11 +1,6 @@
 ---
 title: What is phenomenology? [1]
 layout: post
-author:
-  display_name: S. P. Razavi
-  email: me@srazavi.com
-  twitter: monkeyx
-author_email: me@srazavi.com
 categories:
 - Essays
 tags:
