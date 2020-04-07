@@ -30,7 +30,7 @@ The main lesson de Carvalho wishes to draw from the EMT is that by use of these 
 
 ## Gibson's Affordances
 
-Prior to Gibson (2015 [1979]), the prevalant view of perception was an input-output model. Sensations were inputs into a cognitive system that processed the raw information resulting in further cognitive processes or actions. This view lent itself to the snapshot view of vision. Researchers were tasked with experiments that observed subjects under ideal conditions of stillness. The eye was considered analogous to a camera. The job of the scientist was to isolate the information channels to the brain. Once the information was in the brain a picture could be formed.
+Prior to Gibson, the prevalant view of perception was an input-output model. Sensations were inputs into a cognitive system that processed the raw information resulting in further cognitive processes or actions. This view lent itself to the snapshot view of vision. Researchers were tasked with experiments that observed subjects under ideal conditions of stillness. The eye was considered analogous to a camera and once the information was transmitted to the brain a picture could be formed. The job of the scientist was to isolate the information channels to the brain. 
 
 However, Gibson believed this view was misguided. The main issue was how to parameterise all the incoming information in such a way as to compute it. Representing all that data to form a picture was a formidable cognitive task. Instead, Gibson proposed a much simpler mechanism. Beginning with surface textures, broad strokes of the perceptual picture could be painted. The relationship between objects and their environment would be fixed (termed 'invariants'). This invariant information would be "stored" in the world and perceptually retrieved as needed. 
 
@@ -64,6 +64,6 @@ de Carvalho, Eros Moreira. 2019. ‘Socially Extending the Mind through Social A
 
 Clark, Andy, and David Chalmers. 1998. ‘The Extended Mind’. Analysis 58 (1): 7–19.
 
-Gibson, James J. 2015 [1979]. The Ecological Approach To Visual Perception. Psychology Press & Routledge Classic Editions. New York: Taylor & Francis.
+Gibson, James J. 2015. The Ecological Approach To Visual Perception. Psychology Press & Routledge Classic Editions. New York: Taylor & Francis.
 
 Merleau-Ponty, Maurice. 2012. Phenomenology of Perception. Translated by Donald A. Landes. New York: Routledge.
