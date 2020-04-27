@@ -52,9 +52,9 @@ If this is so, then how do we make sense of representation itself? What determin
 
 We can now see the problem of a looming vicious circularity. If representation depends on socio-cultural practice, what does socio-cultural practice depend upon? It depends on cognition. But we have said cognition depends on computation and so forth into an infinite regress.
 
-There are a number of ways out of this regress. One is to deny Hutto et al's claim that there are no tenable naturalized theories of content that satisfy the demands of a computational basis of cognition. In other words, content does not have to depend on socio-cultural practices at all. Semantics could be explained otherwise. Perhaps one of a number of promising theories may be offered. Such as teleosemantic or phenomenal intentionality theories. I hope to write about these at some point on this blog. 
+There are a number of ways out of this regress. One is to deny Hutto et al's claim that there are no tenable naturalized theories of content that satisfy the demands of a computational basis of cognition. In other words, content does not have to depend on socio-cultural practices at all. Semantics could be explained otherwise. Perhaps one of a number of promising theories may be offered. Such as teleosemantic or phenomenal intentionality theories. 
 
-Another way out may be to deny the idea that computation is always necessarily about symbol manipulation. Our models may be inescapably symbolic because of the way we have to build them. Connectionism is the idea that cognition doesn't depend on symbolic representation as commonly conceived [[6](#6)]. Some connectionists deny cognition is computational at all. Others point towards a way of biocomputing that lacks the dependency on representation. Getting rid of representation as the basis of cognition has its admirers [[7](#7)] and is a topic worth its own post.  
+Another way out may be to deny the idea that computation is always necessarily about symbol manipulation. Our models may be inescapably symbolic because of the way we have to build them. Connectionism is the idea that cognition doesn't depend on symbolic representation as commonly conceived [[6](#6)]. Some connectionists deny cognition is computational at all. Others point towards a way of biocomputing that lacks the dependency on representation. 
 
 ## Provisional conclusion
 
@@ -76,8 +76,6 @@ In the following posts, I will look at a couple of theories that put forward non
 
 <a name="6"></a>[6] Piccinini, 2009. pp. 6-7.
 
-<a name='7'></a>[7] Papineau, 2016.
-
 ## References
 
 Edelman, Gerald, and Giulio Tononi. 2008. A Universe Of Consciousness How Matter Becomes Imagination: How Matter Becomes Imagination. Basic Books.
@@ -87,8 +85,6 @@ Fodor, Jerry A. 1987. Psychosemantics: The Problem of Meaning in the Philosophy 
 Hutto, Daniel D., Erik Myin, Anco Peeters, and Farid Zahnoun. 2018. "The Cognitive Basis of Computation: Putting Computation in Its Place". In The Routledge Handbook of the Computational Mind, edited by Mark Sprevak and Matteo Colombo, 272–82. London: Routledge.
 
 Koch, Christof. 2019. The Feeling of Life Itself: Why Consciousness Is Widespread but Can’t Be Computed. MIT Press.
-
-Papineau, David. 2016. ‘Against Representationalism (about Conscious Sensory Experience)’. International Journal of Philosophical Studies 24 (3): 324–47.
 
 Piccinini, Gualtiero. 2009. ‘Computationalism in the Philosophy of Mind’. Philosophy Compass 4 (3): 515–32.
 
