@@ -14,11 +14,11 @@ Human beings have used different metaphors to explain the mind over the years. P
 
 ## How the brain is not like a computer  
 
-Let's start by stating the ways the _brain_ is not like a computer. There are the obvious differences in the materials and their organisation. The neurons in the brain  interconnect in ways that no human creation does by comparison. Nor are the hundred trillion (10<sup>14</sup>) connections between neurons like the wirings of silicon chips. Their firings are exact real numbers that we cannot specify by finite means [[1](#1)]. They're analogue not digital. 
+Let's start by stating the ways the _brain_ is not like a computer. There are the obvious differences in the materials and their organisation. The neurons in the brain interconnect in ways by comparison that no human creation does. Nor are the hundred trillion (10<sup>14</sup>) connections between neurons like the wirings of silicon chips. Their firings are exact real numbers that we cannot specify by finite means [[1](#1)]. They're analogue not digital. 
 
 No two brains, even those of identical twins, are the same. We talk about general patterns and behaviour in the brain using statistics. But at scales much coarser than the actual neuronal groupings. 
 
-Each brain is unique in ways that makes a nonsense of the idea it is following instructions like a computer. Evolution and individual development make each brain rich in _individual variability_. The complexity of activity is beyond anything human beings have devised. This variability is essential to how the brain deals with the complex situations of everyday animal life.
+Each brain is unique in ways that makes a nonsense of the idea it is following instructions like a computer. Evolution and development make each brain rich in _individual variability_. The complexity of activity is beyond anything human beings have devised. This variability is essential to how the brain deals with the diverse situations of everyday animal life.
 
 There are also special features of the brain that distinguishes it further from computers. First, the brain processes many signals from the environment, body and other cognitive processes in parallel. In ways most digital computers cannot. It regulates biological functions as it moves the body. It categorises perceptions and manages memory in ways we don't understand in full yet.
 
@@ -26,11 +26,11 @@ Second, the brain contains a core 'value system' which tells the nervous system 
 
 The final feature that makes the brain startlingly different to any computer is 'reentry'. Reentry may be the most significant feature of the way the brain works. It is also difficult to appreciate. Edelman and Tononi [[2](#2)] provide a metaphor that may help: 
 
-> Imagine a string quartet. Each individual player improvises according to their own ideas and environmental cues. There is no score so each player provides their own tune. At first, these are not coordinated with the other players. Now imagine each of the players become connected to the others through a mesh of fine threads. Every motion by one player would be immediately conveyed to the others through this mesh. Each player would then take these as further cues to guide their own playing. Over time these signals would lead to coordination. The quartet produces an integrated sound. Whilst each player would remain independent, they would become ever more coordinated. New emergent tunes would arise. The music would become more coherent, all without a conductor directing the players. 
+Imagine a string quartet. Each individual player improvises according to their own ideas and environmental cues. There is no score so each player provides their own tune. At first, these are not coordinated with the other players. Now imagine each of the players become connected to the others through a mesh of fine threads. Every motion by one player would be immediately conveyed to the others through this mesh. Each player would then take these as further cues to guide their own playing. Over time these signals would lead to coordination. The quartet produces an integrated sound. Whilst each player would remain independent, they would become ever more coordinated. New emergent tunes would arise. The music would become more coherent, all without a conductor directing the players. 
 
 Signals in the brain, particularly in the thalamocortical meshwork, are in constant parallel interchange. Recursion of signals coordinates activity across interconnected areas. This maps them together in space and time. Unlike a feedback loop, there are many parallel paths and nothing like an error function aiding synchronicity. Yet widespread synchronisation is its dramatic consequence. Dispersed neurons over a wide area are thus connected by reentry. An integrated system of neuronal connections across different brain regions emerges. This helps explains perceptual categorisation and timely motor responses.
 
-These features differentiate the way the brain works compared to a computer. There is no conductor and no central processing unit in the brain. It dwarfs computers in scale of complexity and ways of organisation. Digital computers are closer to telegraph switches and hydraulic pumps than they are to the human brain. So thinking about brains as computers seems misguided.
+These features differentiate the way the brain works compared to a computer. There is no conductor and no central processing unit in the brain. It dwarfs computers in scale of complexity and ways of organisation. Digital computers are closer to telegraph switches and hydraulic pumps than they are to the animal brain. So thinking about brains as computers seems misguided.
 
 ## Is cognition based on computation?
 
@@ -42,7 +42,7 @@ Let's unpack this a bit, starting with computation depending on representation. 
 
 Words and numbers are quintessential symbols. A word stands for something else. Such as when 'bird' represents something out in the world with wings, a beak and so forth. Numbers expressed as digits, for example, also stand for quantities. In the most basic sense, a number stands for how many things we can count. 
 
-Syntax is how symbols relate to each other. How we infer what word fits into a sentence or how to apply a series of arithmetical operations. When I say 'X is wet', you know what kind of words should fit where I have placed X (i.e. a noun). Likewise, syntax is what makes '10 + 1' make sense to those familiar with basic arithmetic. Whilst '1++' won't make sense unless you're familiar with certain programming languages. 
+Syntax is how symbols relate to each other. How we infer what word fits into a sentence or how to apply a series of arithmetical operations. When I say 'X is wet', you know what kind of words should fit where I have placed X (e.g. a noun). Likewise, syntax is what makes '10 + 1' make sense to those familiar with basic arithmetic. Whilst '1++' won't make sense unless you're familiar with certain programming languages. 
 
 Two important assumptions underlie the _representational theory of computation_. One, is that a symbol is picked out as an individual partly by its participation in syntax. The symbol on its own doesn't give us everything we need to know to make sense of it. 
 
@@ -52,7 +52,7 @@ Second, and as important, symbols are partly picked out by what they are _about_
 
 For example, consider an electrical system which receives 0V or 5V as inputs [[4](#4)]. It will output 5V only if its two input nodes are 5V. This seems like classic AND-gate behaviour. But this starts with the assumption that 5V represents '1' or 'true'. If instead 5V was to represent '0' or 'false' then the system could be representing an OR-gate. 
 
-We can't make sense of computation without at least some guidance from the content. This content is the representation component of the symbol. The syntax computers manipulate isn't enough to tell us what computation is being performed. As Fodor puts it, "there is no computation without representation" [[5](#5)]. 
+We can't make sense of computation without at least some guidance from the content. This content is the representational component of the symbol. The syntax computers manipulate isn't enough to tell us what computation is being performed. As Fodor puts it, "there is no computation without representation" [[5](#5)]. 
 
 If this is so, then how do we make sense of representation itself? What determines that 5V represents '0' or '1'? At least when it comes to computers, we appeal to norms and practices outside of the computation itself. The engineer sets what the variable represents. By social convention, we agree that 5V represents '1'. It could have been otherwise, but it is what we as a community have decided to mean by 5V.
 
