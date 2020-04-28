@@ -14,7 +14,7 @@ Human beings have used different metaphors to explain the mind over the years. P
 
 ## How the brain is not like a computer  
 
-Let's start by stating the ways the _brain_ is not like a computer. There are the obvious differences in the materials and their organisation. The neurons in the brain  interconnect in ways that no human creation does by comparison. Nor are the hundred trillion (10<sup>14</sub>) connections between neurons like the wirings of silicon chips. Their firings are exact real numbers that we cannot specify by finite means [[1](#1)]. They're analogue not digital. 
+Let's start by stating the ways the _brain_ is not like a computer. There are the obvious differences in the materials and their organisation. The neurons in the brain  interconnect in ways that no human creation does by comparison. Nor are the hundred trillion (10<sup>14</sup>) connections between neurons like the wirings of silicon chips. Their firings are exact real numbers that we cannot specify by finite means [[1](#1)]. They're analogue not digital. 
 
 No two brains, even those of identical twins, are the same. We talk about general patterns and behaviour in the brain using statistics. But at scales much coarser than the actual neuronal groupings. 
 
