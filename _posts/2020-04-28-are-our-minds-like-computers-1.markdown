@@ -86,7 +86,7 @@ In the following posts, I will look at a couple of theories that put forward non
 
 ## References
 
-Edelman, Gerald, and Giulio Tononi. 2008. A Universe Of Consciousness How Matter Becomes Imagination: How Matter Becomes Imagination. Basic Books.
+Edelman, Gerald, and Giulio Tononi. 2008. A Universe Of Consciousness: How Matter Becomes Imagination. Basic Books.
 
 Fodor, Jerry A. 1987. Psychosemantics: The Problem of Meaning in the Philosophy of Mind. MIT Press.
 
