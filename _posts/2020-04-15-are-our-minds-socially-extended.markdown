@@ -9,7 +9,7 @@ tags:
 comments: true
 lang: en_GB
 ---
-The extended mind thesis argues that at least some cognition happens outside the brain. A proposal by Eros Moreira de Carvalho proposes that social actions constitute some mental processes. In this post, I'll examine the argument for _the socially extended mind thesis_ (SEMT). I'll do this by way of first presenting its foundations: the extended mind thesis and Gibson's affordances. 
+The extended mind thesis argues that at least some cognition happens outside the brain. Eros Moreira de Carvalho proposes that social actions constitute some mental processes. In this post, I'll examine the argument for _the socially extended mind thesis_ (SEMT). I'll do this by way of first presenting its foundations: the extended mind thesis and Gibson's affordances. 
 
 ## The Extended Mind Thesis (EMT)
 
