@@ -80,13 +80,13 @@ For the final post on this question, I will consider an alternative non-semantic
 
 <a name="6"></a>[6] Piccinini, 2004, p. 377.
 
-<a name="7"></a>[7] Chalners, 2011, p. 328.
+<a name="7"></a>[7] Chalmers, 2011, p. 328.
 
 <a name="8"></a>[8] Chalmers, 2011, p. 330. c.f. Crane, 1990. 
 
 <a name="9"></a>[9] Putnam, 1970, p. 149.
 
-<a name="10"></a>[10] He talks about a type of vector-based (combinatorial) state machine in Chalmers, 2011. The origins of his ideas of this go back to the 1990s and its not clear whether this is a view he currently holds. 
+<a name="10"></a>[10] Chalmers (2011) talks about a type of vector-based (combinatorial) state machine. The origins of this idea goes back to the 1990s and its not clear whether this is a view Chalmers currently holds. 
 
 <a name="11"></a>[11] Chalmers, 1996, pp. 247-9.
 
