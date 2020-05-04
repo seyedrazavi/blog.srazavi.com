@@ -10,7 +10,7 @@ tags:
 comments: true
 lang: en_GB
 ---
-In [the previous post](https://blog.srazavi.com/essays/2020/04/28/are-our-minds-like-computers-1.html), I gave some reasons from neuroscience for why the brain is not like a computer. I also raised an issue with thinking of computation as the basis of cognition. If computation is dependent on representation this can lead to a vicious circle. This a significant challenge to the _semantic_ view of computation. In this post, I present the first of two possible non-semantic views. 
+In [the previous post](https://blog.srazavi.com/essays/2020/04/28/are-our-minds-like-computers-1.html), I gave some reasons from neuroscience for why the brain is not like a computer. I also raised an issue with thinking of computation as the basis of cognition. If computation is dependent on representation this can lead to a vicious circle. This is a significant challenge to the _semantic_ view of computation. In this post, I present the first of two possible non-semantic views. 
 
 ## Minimal Computationalism
 
@@ -38,7 +38,7 @@ Chalmers provides a useful distinction to show this isn't a worry, at least in t
 
 I have raised the worry about computation depending upon representation [before](https://blog.srazavi.com/essays/2020/04/28/are-our-minds-like-computers-1.html) . Whether a 5V electrical input means '1' or '0' turns a simple circuit from an AND-gate to an OR-gate or vice versa. The semantics of the symbol matters for the operational role performed.
 
-Chalmers denies such a role for semantics in computation [[8](#8)]. He claims computations _are_ syntax. Any semantic role is a consequence of the implementation. This keeps the prospects for AI and cognitive science open. We don't have a good enough explanation for computational content yet. So if our computational theories depend upon an explanation of content then we will not progress very far.
+Chalmers denies such a role for semantics in computation [[8](#8)]. He claims computations _are_ syntax. Any semantic role is a consequence of the implementation. This keeps the prospects for AI and cognitive science open. We don't have a good enough explanation for computational content yet, he claims. So if our computational theories depend upon an explanation of content then we will not progress very far.
 
 Instead, Chalmers suggests we should strive forwards with a common foundation. One that works for both computation and computational content. To achieve this we need a shared notion of causation: how some causes give rise to certain effects. This common notion would avoid the two theories from drifting far apart. Yet it wouldn't hold us up in our pursuit for a computational theory. When a good theory of computational content comes along we can adopt it because of its shared underlying causal explanation.
 
@@ -62,7 +62,7 @@ Before wrapping things up there are a couple of concerns about Chalmers' view wo
 
 Following on from that, what if contrary to Chalmers' view, the material which makes the brain turns out to be important. Even crucial. As Daniel Dennett says, "in order to detect light... you need something photosensitive" [[14](#14)]. The neuronal material may turn out to have just the right properties for some kinds of cognition to occur. This doesn't prevent the brain from being computational. But it may mean functionalism turns out to be false. The property of organisational invariance may not be enough to pick out mental properties. 
 
-This post has covered a lot of ground. Hopefully we're a little clearer on what computationalism is about. We've seen there is some disagreement about how much explaining computation does. It should be clear that there is a lot at stake in the sciences of cognition on whether computationalism is a good explanatory framework. I've also considered how it integrate with the metaphysical position of functionalism. 
+This post has covered a lot of ground. Hopefully we're a little clearer on what computationalism is about. We've seen there is some disagreement about how much explaining computation does. It should be clear that there is a lot at stake in the sciences of cognition on whether computationalism is a good explanatory framework. I've also considered how it would integrate with the metaphysical position of functionalism. 
 
 For the final post on this question, I will consider an alternative non-semantic theory from Gualtiero Piccinini. His approach avoids paying the price for committing to functionalism. But perhaps at the price of not capturing how our digital computers actually work.
 
