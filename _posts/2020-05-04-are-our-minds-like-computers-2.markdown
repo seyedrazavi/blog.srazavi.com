@@ -20,13 +20,13 @@ The second thesis is that of **computational explanation**. This underpins much 
 
 A weak notion of computation is that it is information processing [[2](#2)]. Most organisms gather and process information about their environment. Cognition does involve information processing but this doesn't tell us much about how it works. With this view, computation doesn't have much explanatory power.
 
-Its important to note that information and computation are different concepts in the history of ideas. They have different underlying mathematical theories. They play a different explanatory roles in cognition. The most relevant theories of computation are applicable to digital computers. It is from the notion that cognition works like digital computers that the idea of computationalism arose. To find a more explanatory version of computationalism, we need to trace the idea through history. 
+Its important to note that information and computation are different concepts in the history of ideas. They have different underlying mathematical theories. They play different explanatory roles in cognition. Furthermore, the most relevant theories of computation are applicable to digital computers. It is from the notion that cognition works like digital computers that the idea of computationalism arose. To find a more explanatory version of computationalism, we need to trace the idea through history. 
 
-## Is the minimal enough?
+## Is minimal enough?
 
 Our modern idea of computationalism arises from the work of Warren McCulloch and Walter Pitts [[3](#3)]. They built the idea of the artificial neuron upon the concept of a Turing machine. Such a hypothetical machine uses rules to perform mathematical calculations from a set of input variables. McCulloch and Pitts proposed a mathematical theory of the brain as a kind of Turing machine. Their artificial neural network was the basis of John von Neumann's bold claim that anything that can be unambigiously described can be realised on a suitable neural network [[4](#4)]. 
 
-As Gualtiero Piccinini argues, this is a misunderstanding of the Church-Turing thesis [[5](#5)]. The Church-Turing thesis says that anything mathematically computable can be computed by a Turing machine. It doesn't follow that Turing machines can simulate everything. Not everything needs to be computational. One of Turing's motivations was to show that the decision problem for first order logic had no algorithmic solution [[6](#6)]. 
+As Gualtiero Piccinini argues, this is a misunderstanding of the Church-Turing thesis [[5](#5)]. The Church-Turing thesis says that anything mathematically computable can be computed by a Turing machine. It doesn't follow that Turing machines can simulate everything. Not everything needs to be computational. For example, one of Turing's motivations was to show that the decision problem for first order logic had no algorithmic solution [[6](#6)]. 
 
 Still, for some this is an article of faith in science's eventual capacity to describe all phenomena in the way von Neumann hoped. This view leads to _pancomputationalism_. Roughly stated, everything is describable at some level as computation.  
 
@@ -36,7 +36,7 @@ Chalmers provides a useful distinction to show this isn't a worry, at least in t
 
 ## Computation without representation
 
-I have raised the worry about computation depends upon representation [before](https://blog.srazavi.com/essays/2020/04/28/are-our-minds-like-computers-1.html) . Whether a 5V electrical input means '1' or '0' turns a simple circuit from an AND-gate to an OR-gate or vice versa. The semantics of the symbol matters for the operational role performed.
+I have raised the worry about computation depending upon representation [before](https://blog.srazavi.com/essays/2020/04/28/are-our-minds-like-computers-1.html) . Whether a 5V electrical input means '1' or '0' turns a simple circuit from an AND-gate to an OR-gate or vice versa. The semantics of the symbol matters for the operational role performed.
 
 Chalmers denies such a role for semantics in computation [[8](#8)]. He claims computations _are_ syntax. Any semantic role is a consequence of the implementation. This keeps the prospects for AI and cognitive science open. We don't have a good enough explanation for computational content yet. So if our computational theories depend upon an explanation of content then we will not progress very far.
 
@@ -44,11 +44,11 @@ Instead, Chalmers suggests we should strive forwards with a common foundation. O
 
 ## A role for functionalism
 
-So far I've focused on what computationalism signs us up for under Chalmers' view. An important element of his view that we still need to consider is its functionalism. **Functionalism** is the view that the mind is the functional organisation of the brain [[9](#9)]. That mental states are functional states which described by their causal relations. Each functional state plays a role within a network of functional relations. 
+So far I've focused on what computationalism signs us up for under Chalmers' view. An important element of his view that we still need to consider is its functionalism. **Functionalism** is the view that the mind is the functional organisation of the brain [[9](#9)]. That mental states are functional states described by their causal relations. Each functional state plays a role within a network of functional relations. 
 
 Consider a fast food burger restaurant which has roles for the people who work there. Whether that's on the sales point, flipping burgers, frying potatoes, or preparing milkshakes. The organisation of the restaurant determines what kind of service it provides. Likewise, the organisation of the brain determines what kind of mind it provides.
 
-The specifics of Chalmers view on the organisation of the mind need not concern us too much for the moment[[10](#10)]. The more important take away is a principle that underpins his functionalism. **The principle of organisational invariance** [[11](#11)] states that there are certain properties of a functional system that hold even as the organisation changes. These invariant properties remain as long as the functional organisation remains. 
+The specifics of Chalmers view on the organisation of the mind need not concern us too much for the moment[[10](#10)]. The more important take away is a principle that underpins his functionalism. **The principle of organisational invariance** [[11](#11)] states that there are certain properties of a functional system that hold even as the system changes. These invariant properties remain as long as the functional organisation remains. 
 
 Reconsider the fast food restaurant in the prior example. As long as you have someone taking orders, someone cooking burgers, and making fries then it remains a burger joint. It doesn't matter if you chip the potatoes with this kind of machine or by hand using knives. It doesn't matter if the patties are fresh or from frozen. But if you stop making burgers and fries, then it is no longer a burger joint.  
 
