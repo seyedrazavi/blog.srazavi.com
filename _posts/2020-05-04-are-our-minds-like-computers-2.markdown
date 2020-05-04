@@ -30,7 +30,7 @@ As Gualtiero Piccinini argues, this is a misunderstanding of the Church-Turing t
 
 Still, for some this is an article of faith in science's eventual capacity to describe all phenomena in the way von Neumann hoped. This view leads to _pancomputationalism_. Roughly stated, everything is describable at some level as computation.  
 
-The worry with this kind of wide notion of computation is that it fails to explain cognition. If everything is computation then what is the mind above and beyond everything else? If we say rocks in space are performing computations and so is the brain, this only satisfies a very shallow inquiry about what minds are doing. We're not saying very much at all when we say everything is computation. 
+The worry with this kind of wide notion of computation is that it fails to explain cognition. If everything is computation then what is the mind above and beyond everything else? If we say rocks in space are performing computations and so is the brain, this only satisfies a very shallow inquiry into what minds are doing. We're not saying very much at all when we say everything is computation. 
 
 Chalmers provides a useful distinction to show this isn't a worry, at least in the case of minimal computationalism [[7](#7)]. Consider the case of digestion. In some sense, the digestive system implements a computation in the way it works. Various digestive rules apply to food inputs and various outputs result. Yet, this is irrelevant to it being a digestive system. The same computation simulated by a digital computer wouldn't make a digestive system. By contrast, a cognitive system is cognitive in virtue of it implementing some computation.
 
