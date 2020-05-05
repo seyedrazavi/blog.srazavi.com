@@ -54,7 +54,7 @@ Reconsider the fast food restaurant in the prior example. As long as you have so
 
 Chalmers argues that most mental properties are these kinds of invariant properties. The only exceptions are those that are partly dependent on the external environment [[12](#12)]. Knowledge, for example, depends on your belief function turning out to be a true proposition about the world. 
 
-What connects Chalmers' functionalist view with computationalism are the thesis of minimal computationalism. Each functional state is explained as a computation (the thesis of computational explanation). The functional organisational is the right kind of structure for a mind (the thesis of computational sufficiency). The brain realises the functional organisation; the functional organisation is specified as computation.
+What connects Chalmers' functionalist view with computationalism are the thesis of minimal computationalism. Each functional state is explained as a computation (the thesis of computational explanation). The functional organisation is the right kind of structure for a mind (the thesis of computational sufficiency). The brain realises the functional organisation; the functional organisation is specified as computation.
 
 ## Taking stock  
 
