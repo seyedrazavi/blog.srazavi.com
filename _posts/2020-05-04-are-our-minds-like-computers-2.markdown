@@ -84,7 +84,7 @@ For the final post on this question, I will consider an alternative non-semantic
 
 <a name="8"></a>[8] Chalmers, 2011, p. 330. c.f. Crane, 1990. 
 
-<a name="9"></a>[9] Putnam, 1970, p. 149.
+<a name="9"></a>[9] Putnam, 1960, p. 149.
 
 <a name="10"></a>[10] Chalmers (2011) talks about a type of vector-based (combinatorial) state machine. The origins of this idea goes back to the 1990s and its not clear whether this is a view Chalmers currently holds. 
 
