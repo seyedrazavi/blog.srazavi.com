@@ -19,10 +19,10 @@ This posts concludes my current exploration of whether our minds are like comput
 
 The account of computationalism I will introduce hinges on mechanistic explanations. This is to analyse a system through its components, their organisation and functional relations [[1](#1)]. Such a multi-level analysis applies to the whole system (e.g. the human organism), down to the most basic component (e.g. neuronal structures). Different components play a role in different analysis depending on which perspective we adopt for explaining a system [[2](#2)]. For example, the mouth considered as a part of the digestive, respitory, or speech systems. 
 
-A mechanism with certain capacities is a set of components whose functions, plus their relevant relations, are such that the mechanism possesses these capacities because: 
-(a) the mechanism contains the set of components; 
-(b) the set has functions organised in the relevant relations, and 
-(c) because of the way the functions are so organised they constitute the capablities of the mechanism [[3](#3)]. 
+A mechanism with certain capacities is a set of components whose functions, plus their relevant relations, are such that the mechanism possesses these capacities because:<br> 
+(a) the mechanism contains the set of components; <br>
+(b) the set has functions organised in the relevant relations, and <br>
+(c) because of the way the functions are so organised they constitute the capablities of the mechanism [[3](#3)]. <br>
 To put it yet another way, the functional organisation of the mechanism is necessary for the mechanism to do what it does.
 
 For example, the human body (mechanism) can circulate blood (capacity). This is because of the heart (component) whose function is to pump blood. Also, because of the way the heart connects to the arterial network (organisation). 
@@ -31,9 +31,9 @@ For example, the human body (mechanism) can circulate blood (capacity). This is 
 
 The mechanistic account says computations are best explained as a special mechanical process. Defined in part by manipulating strings of discrete symbols [[4](#4)]. The most familiar example would be digital computers. These execute programs, or strings of instructions. Yet, the mechanistic account isn't only limited to this kind of computing. It can also accommodate universal Turing machines [[5](#5)]. As well as more novel constructs such as Gandy machines [[6](#6)] and hypercomputers [[7](#7)]. Even connectionist systems, such as neural networks, decompose to explainable mechanisms. Even if only some neural networks are performing computations as such [[8](#8)].
 
-Mechanistic theory is another non-semantic account of computation. Such computational analysis doesn't depend on representation to determine the computational function. Let's take David Marr's paradagmatic computational analysis of vision as an example [[9](#9)]. Marr provides three levels to describe a system: 
-(a) _computationally_ as the function computed by the system; 
-(b) _algorithimically_ as the way specified for the system to compute the function; 
+Mechanistic theory is another non-semantic account of computation. Such computational analysis doesn't depend on representation to determine the computational function. Let's take David Marr's paradagmatic computational analysis of vision as an example [[9](#9)]. Marr provides three levels to describe a system: <br>
+(a) _computationally_ as the function computed by the system; <br>
+(b) _algorithimically_ as the way specified for the system to compute the function; <br>
 (c) finally, the _implementation_ of the algorithm on the physical system.
 
 Frances Egan argues representation isn't necessary to explain the computational core, the first two levels of Marr's description [[10](#10)]. These levels only need a mathematical function-theoretic description. Of course, for a full description of the vision system, Marr _does_ use representation. Particularly to explain how what we perceive refers to objects in the world. But these are not necessary for the _computational_ aspects of his description. The computations are pure mathematical functions concerned with mathematical entities.
