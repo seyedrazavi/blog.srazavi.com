@@ -102,11 +102,11 @@ Chalmers, David J. 1996. The Conscious Mind: In Search of a Fundamental Theory. 
 
 ———. 2011. ‘A Computational Foundation for the Study of Cognition’. Journal of Cognitive Science 12 (4): 323–57.
 
-Crane, Tim. 1990. ‘The Language of Thought: No Syntax Without Semantics’. Mind and Language 5 (3): 187–213.
-
 Dennett, Daniel C. 1997. Kinds Of Minds: Toward An Understanding Of Consciousness. Basic Books.
 
 Hutto, Daniel D., Erik Myin, Anco Peeters, and Farid Zahnoun. 2018. ‘The Cognitive Basis of Computation: Putting Computation in Its Place’. In The Routledge Handbook of the Computational Mind, edited by Mark Sprevak and Matteo Colombo, 272–82. London: Routledge.
+
+Neumann, John von. 1951. ‘The General and Logical Theory of Automata’. In John von Neumann: Collected Works, edited by A. H. Taub, 288–326. Oxford: Pergamon Press.
 
 Piccinini, Gualtiero. 2004. ‘Functionalism, Computationalism, and Mental Contents’. Canadian Journal of Philosophy 34 (3): 375–410.
 
@@ -115,5 +115,3 @@ Piccinini, Gualtiero. 2004. ‘Functionalism, Computationalism, and Mental Conte
 ———. 2010. ‘The Mind as Neural Software? Understanding Functionalism, Computationalism, and Computational Functionalism’. Philosophy and Phenomenological Research 81 (2): 269–311.
 
 Putnam, Hilary. 1960. ‘Minds and Machines’. In Dimensions of Minds, edited by Sidney Hook, 138–64. New York, USA: New York University Press.
-
-Von Neumann, John. 1951. ‘The General and Logical Theory of Automata’. In John von Neumann: Collected Works, edited by A. H. Taub, 288–326. Oxford: Pergamon Press.

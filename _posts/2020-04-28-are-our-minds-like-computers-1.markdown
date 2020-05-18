@@ -86,11 +86,11 @@ In the following posts, I will look at a couple of theories that put forward non
 
 ## References
 
-Edelman, Gerald, and Giulio Tononi. 2008. A Universe Of Consciousness: How Matter Becomes Imagination. Basic Books.
+Edelman, Gerald, and Giulio Tononi. 2008. A Universe Of Consciousness How Matter Becomes Imagination: How Matter Becomes Imagination. Basic Books.
 
 Fodor, Jerry A. 1987. Psychosemantics: The Problem of Meaning in the Philosophy of Mind. MIT Press.
 
-Hutto, Daniel D., Erik Myin, Anco Peeters, and Farid Zahnoun. 2018. "The Cognitive Basis of Computation: Putting Computation in Its Place". In The Routledge Handbook of the Computational Mind, edited by Mark Sprevak and Matteo Colombo, 272–82. London: Routledge.
+Hutto, Daniel D., Erik Myin, Anco Peeters, and Farid Zahnoun. 2018. ‘The Cognitive Basis of Computation: Putting Computation in Its Place’. In The Routledge Handbook of the Computational Mind, edited by Mark Sprevak and Matteo Colombo, 272–82. London: Routledge.
 
 Koch, Christof. 2019. The Feeling of Life Itself: Why Consciousness Is Widespread but Can’t Be Computed. MIT Press.
 
