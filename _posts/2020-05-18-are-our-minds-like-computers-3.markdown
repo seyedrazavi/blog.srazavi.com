@@ -17,7 +17,7 @@ This posts concludes my current exploration of whether our minds are like comput
 
 ## What is a mechanical explanation?
 
-The account of computationalism I will introduce hinges on mechanistic explanations. This is to analyse a system through its components, their organisation and functional relations [[1](#1)]. Such a multi-level analysis applies to the whole system (e.g. the human organism), down to the most basic component (e.g. neuronal structures). Different components play a role in different analysis depending on which perspective we adopt for explaining a system [[2](#2)]. For example, the mouth considered as a part of the digestive, respitory, or speech systems. 
+The account of computationalism I will introduce hinges on mechanistic explanations. This is to analyse a system through its components, their organisation and functional relations [[1](#1)]. Such a multi-level analysis applies to the whole system (e.g. the human organism), down to the most basic component (e.g. neuronal structures). Components play a different role in an analysis depending on which perspective we adopt for explaining a system [[2](#2)]. For example, the mouth considered as a part of the digestive, respitory, or speech systems. 
 
 A mechanism with certain capacities is a set of components whose functions, plus their relevant relations, are such that the mechanism possesses these capacities because:<br> 
 (a) the mechanism contains the set of components; <br>
