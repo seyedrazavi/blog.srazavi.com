@@ -15,7 +15,7 @@ lang: en_GB
 
 This posts concludes my current exploration of whether our minds are like computers (see parts [1](https://blog.srazavi.com/essays/2020/04/28/are-our-minds-like-computers-1.html) & [2](https://blog.srazavi.com/essays/2020/05/04/are-our-minds-like-computers-2.html)). In this final instalment, I look at the mechanistic theory of computation and its role in cognitive neuroscience. I argue that despite some limitations this is a favourable approach for research into cognition.
 
-## What is a mechanical explanation?
+## What is a mechanistic explanation?
 
 The account of computationalism I will introduce hinges on mechanistic explanations. This is to analyse a system through its components, their organisation and functional relations [[1](#1)]. Such a multi-level analysis applies to the whole system (e.g. the human organism), down to the most basic component (e.g. neuronal structures). Components play a different role in an analysis depending on which perspective we adopt for explaining a system [[2](#2)]. For example, the mouth considered as a part of the digestive, respitory, or speech systems. 
 
