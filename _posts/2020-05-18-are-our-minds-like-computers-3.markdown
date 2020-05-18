@@ -50,7 +50,7 @@ A full description within cognitive neuroscience has the following characteristi
 
 1. It identifies the molecular events that contribute to neural events.
 2. It explains how neural events contribute to neural networks and circuits.
-3. It explained how these networks and circuits in turn contribute to the relevant system events.
+3. It explains how these networks and circuits in turn contribute to the relevant system events.
 4. Finally, how the relevant systems, such as a human being in her environment, produce behaviour.
 
 Together these criteria aim at giving a full account of cognition, drawing from the methods of their various disciplines. Underpinning it all is the methodology of mechanistic explanation.
@@ -79,7 +79,7 @@ To the extent that the mechanistic theory of computation proves explanatory, the
 
 <a name="5"></a>[5] Turing machines are hypothetical machines which apply rules to input variables to alter internal states and generate outputs in order to perform mathematical calculations (Turing, 2004 [1936]).
 
-<a name="6"></a>[6] A Gandy machine is a parallel computing machine sometimes conceptualised as multiple TMs running in tandem with a shared input/output stream (Fresco, 2012, p. 361). 
+<a name="6"></a>[6] A Gandy machine is a parallel computing machine sometimes conceptualised as multiple Turing machines running in tandem with a shared input/output stream (Fresco, 2012, p. 361). 
 
 <a name="7"></a>[7] A theoretical machine which solves the ‘halting problem’ of determining prior to execution whether any arbitrary program will finish running or continue indefinitely (Siegelmann, 2003).
 
