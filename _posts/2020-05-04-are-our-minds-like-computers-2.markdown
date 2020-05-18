@@ -64,7 +64,7 @@ Following on from that, what if contrary to Chalmers' view, the material which m
 
 This post has covered a lot of ground. Hopefully we're a little clearer on what computationalism is about. We've seen there is some disagreement about how much explaining computation does. It should be clear that there is a lot at stake in the sciences of cognition on whether computationalism is a good explanatory framework. I've also considered how it would integrate with the metaphysical position of functionalism. 
 
-For the final post on this question, I will consider an alternative non-semantic theory from Gualtiero Piccinini. His approach avoids paying the price for committing to functionalism.
+For the final post on this question, I will consider an [alternative non-semantic theory from Gualtiero Piccinini](https://blog.srazavi.com/essays/2020/05/18/are-our-minds-like-computers-3.html). His approach avoids paying the price for committing to functionalism.
 
 ## Notes
 

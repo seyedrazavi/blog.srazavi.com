@@ -68,7 +68,7 @@ Yet another way out may be to deny the idea that computation is always about sym
 
 At this point, I hope to have at least set out the limits of talk about the mind being like a computer. We can see that thinking of the brain as a computer may not be particularly helpful. It is also necessary to do some explaining when we say cognition is based on computation. At least if we want to avoid a vicious circle where we presume the thing for which we are arguing. 
 
-In the following posts, I will look at a couple of theories that put forward non-semantic theories of computation as the basis of cognition. First, the mechanistic computationalism advanced by Gualtiero Piccinini. Followed by the [functional computationalism argued for by David Chalmers](https://blog.srazavi.com/essays/2020/05/04/are-our-minds-like-computers-2.html). Both attempt to break the vicious circle by removing the dependence on semantics. This may lead to a different understanding of how computationalism may yet be helpful when thinking about the mind.
+In the following posts, I will look at a couple of theories that put forward non-semantic theories of computation as the basis of cognition. First, the [mechanistic computationalism advanced by Gualtiero Piccinini](https://blog.srazavi.com/essays/2020/05/18/are-our-minds-like-computers-3.html). Followed by the [functional computationalism argued for by David Chalmers](https://blog.srazavi.com/essays/2020/05/04/are-our-minds-like-computers-2.html). Both attempt to break the vicious circle by removing the dependence on semantics. This may lead to a different understanding of how computationalism may yet be helpful when thinking about the mind.
 
 ## Notes
 
