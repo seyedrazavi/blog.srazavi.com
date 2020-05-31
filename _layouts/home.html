@@ -6,10 +6,6 @@ layout: default
 
 {%- if site.posts.size > 0 -%}
   <ul class="posts">
-    <li>
-      <h1 id="posts-label">{{ page.title | default: site.title }}</h1>
-    </li>
-
     {%- for post in site.posts -%}
       <li>
         {% include post_preview.html %}
