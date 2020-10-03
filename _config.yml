@@ -66,7 +66,7 @@ plainwhite:
     - title: Home
       url: "/"
     - title: About
-      url: "/about"
+      url: "https://www.srazavi.com"
 
 
   social_links:
