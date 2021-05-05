@@ -1,18 +1,18 @@
 ---
-layout: post
-published: true
 title: Should smart technologies be transparent when used?
-wordpress_id: 265
-wordpress_url: http://hyperhuman.blog/?p=178
-date: '2018-10-25 15:00:46 +0100'
-date_gmt: '2018-10-25 14:00:46 +0100'
+date: 2018-10-25 14:00:46 Z
 categories:
 - Essays
 tags:
 - AI
 - Phenomenology
+layout: post
+wordpress_id: 265
+wordpress_url: http://hyperhuman.blog/?p=178
+date_gmt: '2018-10-25 14:00:46 +0100'
 comments: true
 ---
+
 > "[D]eep learning systems are &lsquo;already pushing their way into real-world applications. Some help drive services inside Google and other Internet giants, helping to identify faces in photos, recognize commands spoken into smartphones, and so much more&rsquo;. If deep learning networks systematically classify the world&rsquo;s patterns in ways that are at variance with our ordinary human classifications, and if those networks are lodged in the workings of the technology that organizes and shapes our cognitive lives, then those lives will be organized and shaped by those variant classifications.
 
 > "However, surely we will notice this divergence, I hear you say. It is here that a second point becomes relevant. What if the networks in question are fluidly and expertly integrated into our everyday activities, such that they are transparent in use? Imagine such networks operating as part of a cognitive-assistant-style wearable that classifies situations and transmits the results via an optical head-mounted display... such behaviour-guiding technology, even though it enhances cognitive performance, and even though it is operating in cognition central, could be transparent. On some occasions, no doubt, its variant classifications of the world would lead to mismatches to which the human user will be sensitive before anything detrimental occurs. However, it seems just as likely that subtle changes in one&rsquo;s engagement with the world&mdash;changes that, for example, have potentially damaging social consequences for how one classifies others...

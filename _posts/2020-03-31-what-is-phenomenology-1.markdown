@@ -1,13 +1,15 @@
 ---
 title: What is phenomenology? [1]
-layout: post
+date: 2020-03-31 00:00:00 Z
 categories:
 - Essays
 tags:
 - Phenomenology
+layout: post
 comments: true
 lang: en_GB
 ---
+
 In this post, I will introduce you to phenomenology. This is a philosophical discipline that tries to makes sense of our first-person conscious experience. This will be a summary of the approach and why it may be a fruitful one. In a [future post](https://blog.srazavi.com/essays/2020/04/08/what-is-phenomenology-2.html), I'll consider some worries about the approach and present the arguments of one of its detractors, Daniel Dennett.
 <!--more-->
 

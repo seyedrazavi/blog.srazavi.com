@@ -1,6 +1,6 @@
 ---
 title: Are our minds like computers? [3]
-layout: post
+date: 2020-05-18 00:00:00 Z
 categories:
 - Essays
 tags:
@@ -9,6 +9,7 @@ tags:
 - Mechanisms
 - Cognition
 - Cognitive Neuroscience
+layout: post
 comments: true
 lang: en_GB
 ---

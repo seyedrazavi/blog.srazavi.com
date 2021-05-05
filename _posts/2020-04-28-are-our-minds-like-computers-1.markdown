@@ -1,15 +1,17 @@
 ---
 title: Are our minds like computers? [1]
-layout: post
+date: 2020-04-28 00:00:00 Z
 categories:
 - Essays
 tags:
 - Neuroscience
 - Computationalism
 - Cognition
+layout: post
 comments: true
 lang: en_GB
 ---
+
 Human beings have used different metaphors to explain the mind over the years. Plato talked about a charioteer guiding two horses. The charioteer was reason controlling the horses of desire and spiritedness. The pre-industrials talked about hydraulics. Then came steam engine metaphors and telegraph switchboards. Now of course, the ubiquitous computer analogy. To what extent 'the mind is like a computer' I explore through this and later posts. 
 
 ## How the brain is not like a computer  

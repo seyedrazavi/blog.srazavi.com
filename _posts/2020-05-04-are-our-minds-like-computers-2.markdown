@@ -1,15 +1,17 @@
 ---
 title: Are our minds like computers? [2]
-layout: post
+date: 2020-05-04 00:00:00 Z
 categories:
 - Essays
 tags:
 - Computationalism
 - Functionalism
 - Cognition
+layout: post
 comments: true
 lang: en_GB
 ---
+
 In [the previous post](https://blog.srazavi.com/essays/2020/04/28/are-our-minds-like-computers-1.html), I gave some reasons from neuroscience for why the brain is not like a computer. I also raised an issue with thinking of computation as the basis of cognition. If computation is dependent on representation this can lead to a vicious circle. This is a significant challenge to the _semantic_ view of computation. In this post, I present the first of two possible non-semantic views. 
 
 ## Minimal Computationalism

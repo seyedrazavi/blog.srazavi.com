@@ -1,4 +1,7 @@
 ---
-tag: Essays
+title: Essays
 permalink: "/category/essays"
+tags:
+- Essays
 ---
+

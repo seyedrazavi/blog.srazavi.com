@@ -1,13 +1,15 @@
 ---
 title: What is phenomenology? [2]
-layout: post
+date: 2020-04-08 00:00:00 Z
 categories:
 - Essays
 tags:
 - Phenomenology
+layout: post
 comments: true
 lang: en_GB
 ---
+
 In a [previous post](https://blog.srazavi.com/essays/2020/03/31/what-is-phenomenology-1.html), I introduced phenomenology. This is a philosophical discipline that attempts to makes sense of our first-person experience. In this post, I will present some worries about the method. Followed by the strong objection against phenomenology raised by the philosopher Daniel Dennett.
 
 The first worry is that the process of capturing descriptions is unreliable. The same objection could apply to some psychological experiments. These are as reliant on descriptive reporting of the behaviour or mental acts of their subjects. We gain greater reliability through various methodological approaches such as the phenomenological. Indeed, if we are to consider qualitative factors at all in our scientific explanations, we must do so.
