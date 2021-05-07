@@ -47,7 +47,7 @@ Or perhaps, consciousness is a peculiar evolved ability of minded animals. Somet
 
 Yet, I could not see how one could think without being able to think *about* things. If thoughts were not about something, then they would be empty and pointless. Sometimes thoughts would point outside of the thinker like the ball being kicked or the cup being lifted. Sometimes they would be internal. Thoughts about thoughts or imagined scenarios or abstract objects like mathematical symbols. Regardless, without aboutness it seemed to me thinking, or cognition more generally, could not get off the ground.
 
-So, I settled on my problem and like any good philosophical problem, the more I thought about it, the harder it got. Yet, this is not been to my detriment. Because the process has been enriching and fascinating. 
+So, I settled on my problem and like any good philosophical problem, the more I thought about it, the harder it got. Yet, this has not been to my detriment. Because the process has been enriching and fascinating. 
 
 It is a topic with a rich literature that divides philosophers in the 20th Century across two traditions. This divide is partly cultural norms in communication but also baked in assumptions about what kind of job is worth doing. It is of little interest to anybody outside of philosophy that such a divide exists. Yet, for better or worse, it seems universities in the UK are divided between these two camps. Rarely do the two traditions talk in terms they both can understand. This is particularly evident in my chosen problem domain of intentionality. 
 
