@@ -8,3 +8,4 @@ tags:
 - Science
 ---
 
+What's the proper relationship between philosophy and science? How should a philosopher work in a world where knowledge generation is sometimes seen as the preserve of science?
