@@ -6,6 +6,7 @@ categories:
 tags:
 - Philosophy
 - Science
+Field name: 
 ---
 
 What's the right way to do philosophy when you care about science? Sometimes, this question is misunderstood. It might be seen as prioritising science over all other human efforts to get knowledge. Or seeing science as the peak of all human endeavour. I don't believe this is the case. 
@@ -18,7 +19,7 @@ What this amounts to in specifics and how to justify this view is a complicated 
 
 Much of the practice of science - as done and taught by scientists - centres around the norms of determining what is "right" in the above. Philosophers of science spend a lot of time trying to explain how these practices derive their norms. Or sometimes how they ought to derive their norms. But scientific practice - much like human social practice in general - evolves over time by consensus. It is not pre-planned for the most part. 
 
-Modern scientific practice at least involves hypothesis building, mathematisation, experiment design, peer review, and publishing results. These elements have changed over time and there is nothing to suggest they won't change in the future. It will be up to community to determine what the science of the future will look like. With reflections of those who spend time thinking about these things.
+Modern scientific practice at least involves hypothesis building, mathematisation, experiment design, peer review, and publishing results. These elements have changed over time and there is nothing to suggest they won't change in the future. It will be up to the community to determine what the science of the future will look like. With reflections of those who spend time thinking about these things.
 
 To the extent we understand what science is today, it is clear that philosophy is not science. Philosophy may sometimes suggest hypothesis that can be empirically tested. It may make the hypothesis plain in logical terms if not precise mathematical ones. It may even in very rough sketches lay out potential experiments that could test its hypothesis. But philosophers are not typically aiming to fit the standards of scientific practice. 
 
