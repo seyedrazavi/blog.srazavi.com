@@ -1,5 +1,6 @@
 ---
 title: Naturalism or something near enough
+date: 2021-05-28 11:41:00 Z
 categories:
 - Essays
 tags:
