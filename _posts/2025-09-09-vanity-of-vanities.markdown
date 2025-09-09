@@ -1,6 +1,6 @@
 ---
 title: Chasing the Wind - Vanity of Vanities
-date: 2025-09-09 16:00:00 Z
+date: 2025-09-09 12:00:00 Z
 categories:
 - Essays
 tags:
@@ -18,9 +18,9 @@ There’s a story I sometimes think about. A young professional, let’s call he
 
 Few lines in Scripture cut as sharply as these. The Teacher (Qoheleth) strikes a note that feels strangely modern. The Hebrew word translated as “meaningless” (*hebel*) carries the sense of vapor, breath, a puff of smoke. It is not simply that things are worthless, but that they are fleeting, insubstantial, impossible to grasp. Augustine wrestled with this very condition in his *Confessions*: the heart restless, reaching for created things, only to find them unable to bear the weight of eternal longing. Karl Barth read Ecclesiastes as a protest against all human projects of self-justification, a warning that life “under the sun” cannot ground itself in its own achievements.  
 
-Philosophers of the modern era heard something similar. Camus called it *the absurd*: the clash between our desire for lasting meaning and the universe’s silence. We yearn for permanence, but everything slips away. Heidegger, in his analysis of *being-toward-death*, insisted that our daily busyness often disguises an unspoken anxiety: the recognition that all our projects are finite. Kierkegaard, centuries earlier, named it *despair*—the sickness of trying to build one’s identity on what cannot last. Qoheleth’s cry of “vanity of vanities” sounds remarkably like the opening line of every existentialist diagnosis: the recognition that life cannot be secured by our own striving.  
+Philosophers of the modern era heard something similar. Camus called it *the absurd*: the clash between our desire for lasting meaning and the universe’s silence. We yearn for permanence, but everything slips away. Heidegger, in his analysis of *being-toward-death*, insisted that our daily busyness often disguises an unspoken anxiety: the recognition that all our projects are finite. Kierkegaard, centuries earlier, named it *despair*, the sickness of trying to build one’s identity on what cannot last. Qoheleth’s cry of “vanity of vanities” sounds remarkably like the opening line of every existentialist diagnosis: the recognition that life cannot be secured by our own striving.  
 
-The temptation is to smooth over the rawness of these words. To rush to a happy ending. But Qoheleth does not begin with comfort—he begins with confrontation. What if the things you are building cannot hold you? What if your career, your pleasures, your plans, are *hebel*, smoke in the wind? The unsettling move here is that the text doesn’t offer an immediate escape. It teaches us, instead, to dwell in the recognition that meaning cannot be manufactured.  
+The temptation is to smooth over the rawness of these words. To rush to a happy ending. But Qoheleth does not begin with comfort, he begins with confrontation. What if the things you are building cannot hold you? What if your career, your pleasures, your plans, are *hebel*, smoke in the wind? The unsettling move here is that the text doesn’t offer an immediate escape. It teaches us, instead, to dwell in the recognition that meaning cannot be manufactured.  
 
 Anna’s story, in miniature, is ours. We chase milestones, imagining that the next rung will resolve the question, only to find it still echoing: *Is this it?* The Teacher’s words free us, oddly, by naming what we would rather ignore. They teach us to stop clutching smoke and begin asking the deeper question: where can meaning that endures actually be found? Augustine’s answer was restless desire ordered toward God; Kierkegaard’s was the leap into faith; Camus’s was revolt against the absurd. We may not agree with them, but each insists that facing futility honestly is the beginning of wisdom.  
 
