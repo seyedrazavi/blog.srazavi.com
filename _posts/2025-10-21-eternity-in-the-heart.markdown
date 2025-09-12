@@ -15,7 +15,7 @@ There is a story of a youth named Adrian. He lived surrounded by abundance: musi
 
 This verse captures a paradox at the center of human existence. On the one hand, everything is beautiful in its time: the rhythms of life, the seasons, the joys and sorrows. On the other hand, eternity presses upon us. We long for something more than time, something beyond the cycle of seasons. Yet we cannot grasp it fully: “no one can fathom what God has done from beginning to end.” We are suspended between finitude and infinity.  
 
-Augustine felt this paradox in the marrow of his soul. In his *Confessions*, he wrote: “You have made us for Yourself, O Lord, and our heart is restless until it rests in You.” For him, the longing for eternity was not proof of despair but of our origin and destiny in God. Blaise Pascal echoed the same in his *Pensées*: “There is a God-shaped vacuum in the heart of each man which cannot be satisfied by any created thing, but only by God.” He described the human condition as infinite desire trapped in finite limits, an abyss that only the Infinite can fill.  
+Blaise Pascal wrote in his *Pensées*: “There is a God-shaped vacuum in the heart of each man which cannot be satisfied by any created thing, but only by God.” He described the human condition as infinite desire trapped in finite limits, an abyss that only the Infinite can fill.  
 
 Karl Rahner, the Catholic theologian of the 20th century, called the human being “the hearer of the Word.” By this he meant that our very structure as persons is oriented toward transcendence, toward receiving the self-communication of God. We are not merely finite creatures seeking survival; we are beings with an openness to mystery that nothing finite can exhaust. 
 
