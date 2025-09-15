@@ -1,6 +1,7 @@
 ---
 title: Essays and Stories
-timezone: UTC
+future: false
+timezone: Europe/London
 collections:
   category:
     title: Category
