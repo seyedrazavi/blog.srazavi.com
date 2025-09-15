@@ -1,8 +1,7 @@
 ---
 title: Strongman on the Clock
 date: 2025-10-12 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 We were told to wear our school colours and bring “good attitudes,” which is what the vice principal said whenever a pep rally had to be dressed as something nobler. The banner over the gym doors read CHOOSE LIFE in thick vinyl letters, and beneath it a line of freshmen filed past me with their transparent backpacks and bright, compliant faces. I was the kid with the camera, a Nikon with a loose strap, purchased by the yearbook fund and signed out under my name as if responsibility could be inked. I also had the VHS camcorder, a boxy thing with a battery like a brick, because I’d talked myself into being the kind of person who documented what everyone else remembered wrong.
 

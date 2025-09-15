@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - Vanity of Vanities
 date: 2025-09-09 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

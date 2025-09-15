@@ -1,8 +1,7 @@
 ---
 title: Should smart technologies be transparent when used?
 date: 2018-10-25 14:00:46 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - AI
 - Phenomenology

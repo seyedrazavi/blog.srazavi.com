@@ -1,8 +1,7 @@
 ---
 title: What is phenomenology? [2]
 date: 2020-04-08 00:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Phenomenology
 layout: post

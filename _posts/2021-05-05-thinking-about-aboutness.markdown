@@ -1,8 +1,7 @@
 ---
 title: Thinking about Aboutness
 date: 2021-05-05 12:39:00 Z
-categories:
-- Essays
+categories: [essays]
 - Journal
 tags:
 - Philosophy

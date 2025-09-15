@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - The Weariness of Cycles
 date: 2025-09-16 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

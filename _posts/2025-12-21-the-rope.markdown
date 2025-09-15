@@ -1,8 +1,7 @@
 ---
 title: The Rope
 date: 2025-12-21 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 We thought we were clever that night, which is how most trouble begins, with the mistaking of borrowed spectacle for actual plan. Two kids with a stack of bedsheets and a window that made the night look like a blank page, we tied our knots with the solemnity of apprentices miming a craft we had seen only in movies. The room smelled like laundry and the faint vanilla of an old poster’s glue; the house was sleeping in that particular way of family houses, heavy, unselfconscious, a body unaware of its own breathing. She held the first sheet while I threaded the second through, her fingers quick and competent in a way that had always made me proud to be in her orbit; my own hands tried to learn a knot from a scene I could replay in detail but had never understood in principle. We pulled to test the splice and the rope gave that promising creak that sounds like strength in a film. She grinned.
 

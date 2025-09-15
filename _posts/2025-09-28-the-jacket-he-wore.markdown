@@ -1,8 +1,7 @@
 ---
 title: The Jacket He Wore
 date: 2025-09-28 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 He sat in the back row in a jacket that smelled faintly like pennies. It was old Army surplus, sleeves a little long, cuffs shiny where hands had polished them by habit. He wore it in August and in December, in algebra and in English, collar up, hoodies under it when the cold wind came down the corridor. If you looked quick you’d think he was hiding; if you looked longer you’d see he just didn’t know where to put himself. Teachers called roll and never looked to the back. He answered to the first letter of his name like it was all he could afford.
 

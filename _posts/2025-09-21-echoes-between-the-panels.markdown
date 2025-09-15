@@ -1,8 +1,7 @@
 ---
 title: Echoes Between the Panels
 date: 2025-09-21 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 On Wednesdays the shop smelled like ink and plastic sleeves and the faint sugar of the bakery next door. New shipments meant a current to the air; the clerk moved through it with a box cutter, slicing open cartons while the bell over the door kept chiming. Posters peeled at the corners, *Watchmen*’s blood-smeared smiley next to *Into the Spider-Verse*’s spray-painted logo, and in the reflection of the front glass you could read the neon from the vape store flickering backwards.
 

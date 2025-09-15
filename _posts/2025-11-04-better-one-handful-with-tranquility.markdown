@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - Better One Handful with Tranquility  
 date: 2025-11-04 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

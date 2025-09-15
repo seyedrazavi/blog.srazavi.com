@@ -1,8 +1,7 @@
 ---
 title: Six Slugs
 date: 2025-12-07 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 I’ve told the story before. It has been shaped by repetition, pared down until it fits neatly into a few sentences, the way a river wears stone into something smooth enough to pocket. But the whole of it, the night, the trial, the father, the boy who pulled the trigger, never really sits clean.
 

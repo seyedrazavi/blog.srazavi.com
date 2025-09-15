@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - A Time for Everything
 date: 2025-10-14 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

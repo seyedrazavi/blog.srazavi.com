@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - The Weight of Toil
 date: 2025-10-07 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

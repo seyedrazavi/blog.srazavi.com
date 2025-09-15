@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - Eternity in the Heart
 date: 2025-10-21 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

@@ -1,8 +1,7 @@
 ---
 title: Prayer, Uncertainty, and the Gaps of Modern Science
 date: 2025-11-25 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

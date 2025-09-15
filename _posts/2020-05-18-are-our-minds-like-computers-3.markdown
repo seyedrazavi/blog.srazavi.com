@@ -1,8 +1,7 @@
 ---
 title: Are our minds like computers? [3]
 date: 2020-05-18 00:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Computationalism
 - Functionalism

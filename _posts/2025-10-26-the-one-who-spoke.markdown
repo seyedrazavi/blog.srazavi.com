@@ -1,8 +1,7 @@
 ---
 title: The Ones Who Spoke
 date: 2025-10-26 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 The guidance office was beige, always beige. Beige chairs with that stiff fabric that left a print on your skin if you sat too long, beige carpet pressed flat by years of feet. The only splash of colour was a poster with a sunrise over water and the words You Are Not Alone in a font too cheerful for the room.
 

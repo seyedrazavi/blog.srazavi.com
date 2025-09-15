@@ -1,8 +1,7 @@
 ---
 title: The Boundary
 date: 2026-01-04 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 It began the way transgressions usually do, not in a single spark but in the slow erosion of a barrier. At first there was the ordinary frame of therapy: two chairs angled toward each other, a clock whose tick was faint but steady, the practiced rhythm of silence and invitation. I had come in with the usual hesitations, holding my life in clumsy handfuls, expecting only to set them down, to have someone sort them, to leave a little lighter.
 

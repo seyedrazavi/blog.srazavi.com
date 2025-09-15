@@ -1,8 +1,7 @@
 ---
 title: The Ledger of Youth
 date: 2026-02-15 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 On the surface, my life is enviable. I wake in a house that responds to me like a well-trained body: blinds lifting at the exact hour, the hum of a heating system bringing the air to a practiced warmth. Breakfast is measured with the care of a jeweler weighing stones, forty grams of oats, two eggs, a quarter of an avocado. The knife’s edge makes clean work of it. It is not obsession, I tell myself, but discipline. Everything has its portion, its place.
 

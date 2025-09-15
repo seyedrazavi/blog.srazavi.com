@@ -1,8 +1,7 @@
 ---
 title: The Aisles
 date: 2026-03-01 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 The first time I saw it, real theft, not a sneaky chocolate bar slipped under a sleeve but the full ransacking of shelves, I acted without thinking. A man swept razors, deodorant, packets of meat into a bag so quickly it looked rehearsed. I put out my arm, blocking his path like you’d block a child from stepping into traffic. He looked at me with an expression that wasn’t fear or anger, just a kind of weary indifference, and for a second I thought he might swing. It wasn’t him who made me back off, though. It was the staff, eyes wide, hands raised: let him go, please, just let him go. I obeyed, my chest hammering, still buzzing with useless adrenaline long after the automatic doors shushed closed behind him.
 

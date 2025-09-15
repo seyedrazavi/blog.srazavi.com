@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - The End of the Matter   
 date: 2025-11-18 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

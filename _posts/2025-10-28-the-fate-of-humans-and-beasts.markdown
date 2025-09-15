@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - The Fate of Humans and Beasts  
 date: 2025-10-28 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

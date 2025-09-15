@@ -1,8 +1,7 @@
 ---
 title: The Return to Goldenstein
 date: 2026-01-18 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 The journey back to the convent was not dramatic. No one scaled fences or crept under moonlight. A van borrowed from an old pupil brought them up the winding road from Elsbethen. Three boxes of belongings rested between them: shawls, prayer books, rosaries, a framed photograph of young girls in uniform lined up before the castle gates.
 

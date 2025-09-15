@@ -1,7 +1,6 @@
 ---
 title: Stories
 permalink: "/category/stories"
-tags:
-- Stories
+category: stories
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Are our minds like computers? [1]
 date: 2020-04-28 00:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Neuroscience
 - Computationalism

@@ -1,8 +1,7 @@
 ---
 title: Chasing the Wind - Remember Your Creator in the Days of Your Youth  
 date: 2025-11-11 12:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Philosophy
 - Faith

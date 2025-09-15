@@ -1,8 +1,7 @@
 ---
 title: The Alphabet’s Shadow
 date: 2025-11-23 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 There are two tests I remember more clearly than any I took later, the kind that outranked university exams and job interviews and all the forms you fill when you’re trying to be a person in the world. They were small and papered in the kind of beige we used to call white. Across both, I did something that made me feel clever in one moment and older in the next.
 

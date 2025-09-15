@@ -1,8 +1,7 @@
 ---
 title: The Sword
 date: 2026-02-01 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 The sword had been with me for years, a blunt length of steel that I kept propped in the corner of my flat. It wasn’t a weapon in any meaningful sense, just a purchase from a time when I was younger and thought that owning such an object gave me a connection to permanence. It had weight, it had presence, but no edge. For a long time I told myself that one day I would have it sharpened, as if restoring its bite would also restore something dulled in myself.
 

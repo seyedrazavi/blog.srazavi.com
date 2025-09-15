@@ -1,8 +1,7 @@
 ---
 title: Green Grass, Dead Grass
 date: 2025-11-09 12:00:00 Z
-categories:
-- Stories
+categories: [stories]
 ---
 The pile looked harmless enough. A heaped cone of branches and cuttings from the weekend, limbs too thick for the chipper, a mat of ivy we’d dragged out from the fence where the ground never quite dries, fence posts from the last storm with their nails knocked flat. The kind of pile you make when you’ve decided to be the sort of person who tidies the edges of their life. It sat on the slight slope above the field, five strides from the gravel, twenty strides from the tree line, a respectful distance, I thought, as if that earned me the right to set a match.
 

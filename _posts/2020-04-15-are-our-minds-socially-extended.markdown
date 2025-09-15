@@ -1,8 +1,7 @@
 ---
 title: Are our minds socially extended?
 date: 2020-04-15 00:00:00 Z
-categories:
-- Essays
+categories: [essays]
 tags:
 - Affordances
 - Extended Mind
