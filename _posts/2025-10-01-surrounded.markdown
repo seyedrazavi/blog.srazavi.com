@@ -1,6 +1,6 @@
 ---
 title: Surrounded
-date: 2025-10-03 12:00:00 Z
+date: 2025-10-01 12:00:00 Z
 categories: [stories]
 ---
 We went because we thought it mattered to be seen. A small counter-protest, standing against a tide, hemmed in by flags and chants. On the pavements of central London the crowd seemed endless, faces painted red and white, arms clutching plastic pints, a noise that was more roar than word. We stood with our banner, a dozen or two of us, like a pinprick in the middle of a hostile body. Later, when I saw the drone footage, my stomach turned. We looked like a mistake on the map.
