@@ -157,7 +157,6 @@ I’ll end with some deliberately sketchy conclusions, mainly as my own thoughts
 
 **1. We should stop saying that AI makes humans “worthless”.**
 This is bad metaphysics and worse politics. AI systems, as UNDP and OECD both stress, are pattern-recognisers and generative tools that cannot frame problems or care about outcomes. 
-Human Development Reports
 
 Human worth does not rest on outperforming machines at particular tasks, but on our capacity for responsibility. To ourselves, to others, and to the shared world.
 
