@@ -13,9 +13,9 @@ There is something understandable about this rhetoric. If you have spent years t
 
 But I want to approach the moment with two linked suspicions.
 
-1. Why are these jobs suddenly treated as metaphysically special — more “essentially human” than those of textile workers, typists, or human computers, whose jobs were also largely automated?
+1. Why are these jobs suddenly treated as metaphysically special - more “essentially human” than those of textile workers, typists, or human computers, whose jobs were also largely automated?
 
-2. What exactly do people think is at stake for human value here — and is existential philosophy any help in thinking about that?
+2. What exactly do people think is at stake for human value here - and is existential philosophy any help in thinking about that?
 
 The first suspicion is historical; the second is existential. They come together in an awkward way: existentialists are, in general, deeply sceptical of the idea that anyone’s job description can capture their worth.
 
