@@ -81,7 +81,7 @@ It is easy to feel that AI is closing down possibilities. You train in animation
 
 But another way to read the situation, a more uncomfortable one, is that AI is multiplying possible paths while eroding the scripts that previously told us which ones were “sensible”.
 
-Kierkegaard describes anxiety not as mere fear (which has a determinate object) but as the vertigo that comes from recognising our freedom — the sense that we could step off the ledge, or quit the job, or abandon the script, and nothing in the structure of the world will stop us. 
+Kierkegaard describes anxiety not as mere fear (which has a determinate object) but as the vertigo that comes from recognising our freedom - the sense that we could step off the ledge, or quit the job, or abandon the script, and nothing in the structure of the world will stop us. 
 
 Generative AI accelerates this vertigo in at least two ways:
 
@@ -109,7 +109,7 @@ Nietzsche’s alternative is neither to nostalgicly defend “real” art agains
 
 On this view, the meaning of AI for the arts is not predetermined by its technical capacities. If platforms choose optimisation metrics that reward engagement over depth, and if we collectively accept a cultural diet of cheap pastiche, then generative systems will indeed contribute to a flattening of taste and a marginalisation of difficult, idiosyncratic work. Doshi et al.’s finding that generative AI can reduce collective diversity of output is one empirical mechanism by which that flattening could occur. 
 
-But Nietzsche would likely say: that is our failure, not the machine’s. It reflects a refusal to take on the harder task of curating, commissioning, and valuing work that resists easy reproduction — whether that is live performance, local experimentation, or art that deliberately plays against the statistical grain.
+But Nietzsche would likely say: that is our failure, not the machine’s. It reflects a refusal to take on the harder task of curating, commissioning, and valuing work that resists easy reproduction - whether that is live performance, local experimentation, or art that deliberately plays against the statistical grain.
 
 In that sense, the real “death” we should worry about is not of the author but of the audience: a public that no longer exercises taste, patience, or curiosity because the cheapest possible stimulation is always a click away.
 
@@ -149,7 +149,7 @@ Existentialism cuts through both complacency and panic here.
 - It undercuts the comforting thought that “my job is my essence”, which turns technological change into an attack on my being rather than my situation.
 - It also undercuts the fatalistic thought that “AI will do what AI will do”. Technologies are always embedded in human projects, and we remain answerable for which projects we pursue.
 
-In that sense, the “specialness” of creative work lies less in the sanctity of particular job titles and more in the fact that they are paradigmatic sites where freedom, recognition, and material conditions collide. They make visible what is at stake — for everyone — in how we handle AI and automation.
+In that sense, the “specialness” of creative work lies less in the sanctity of particular job titles and more in the fact that they are paradigmatic sites where freedom, recognition, and material conditions collide. They make visible what is at stake - for everyone - in how we handle AI and automation.
 
 # A few tentative implications
 
